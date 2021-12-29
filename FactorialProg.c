@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int num, i, facto = 1; // num is 
+    int num, i, facto = 1;  
     printf("Enter a number: ");
     scanf("%d", &num);
     for (i = 1; i <= num; i++)
